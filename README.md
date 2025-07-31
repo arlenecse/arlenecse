@@ -1,6 +1,6 @@
 # Hi, I'm Arlene Garcia 👋
 
-I'm a student at **UC San Diego (UCSD)** passionate about technology and creativity!
+I'm a computer science student at **UC San Diego (UCSD)** passionate about technology and creativity!
 
 ## 🚀 Skills & Tools
 - **Languages:** Python, Java, C, C++, HTML/CSS, JavaScript
@@ -9,10 +9,10 @@ I'm a student at **UC San Diego (UCSD)** passionate about technology and creativ
 - **Workflow:** Agile
 
 ## 🎨 Hobbies
-When I'm not coding, you’ll find me drawing, singing, or reading!
+When I'm not coding, you’ll find me drawing, reading, or working out!
 
 ## 📫 Connect with me
-- [LinkedIn](https://www.linkedin.com/in/arlene-garcia-27260b296/)
+- ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)[LinkedIn](https://www.linkedin.com/in/arlene-garcia-27260b296/)
 - 📧 arlene.garcia.school@gmail.com
 
 ---
