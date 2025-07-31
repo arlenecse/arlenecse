@@ -13,8 +13,8 @@ When I'm not coding, you’ll find me drawing, reading, or working out!
 
 ## 📫 Connect with me
 - ![LinkedIn](https://www.linkedin.com/in/arlene-garcia-27260b296/)
-- 📧 arlene.garcia.school@gmail.com
-- [![Email Badge](https://img.shields.io/badge/Gmail-Contact_Me-green?style=flat-square&logo=gmail&logoColor=FFFFFF&labelColor=3A3B3C&color=62F1CD)](mailto:arlene.garcia.school@gmail.com)
+- Email: arlene.garcia.school@gmail.com
+- 
 
 ---
 <!--
