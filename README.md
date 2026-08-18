@@ -11,7 +11,7 @@ I'm a computer science student at **UC San Diego (UCSD)** passionate about techn
 When I'm not coding, you’ll find me drawing, reading, or playing video games!
 
 ## 📫 Connect with me
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/arlene-garcia-27260b296/)
+- LinkedIn: [arlene-garcia-cs](https://www.linkedin.com/in/arlene-garcia-27260b296/)
 - Email: arlene.garcia.mail@gmail.com
 
 ---
