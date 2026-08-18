@@ -4,7 +4,7 @@ I'm a computer science student at **UC San Diego (UCSD)** passionate about techn
 
 ## 🚀 Skills & Tools
 - **Languages:** Python, Java, C, C++, C#, HTML/CSS, JavaScript, TypeScript, SQL, PHP
-- **Frameworks & Libraries:** React, Angular, .NET, Node.js
+- **Frameworks & Libraries:** React, Angular, Node.js, .NET
 - **Tools:** Git, GitHub, Jira, VS Code, Visual Studio, Figma, Agile
 
 ## 🎨 Hobbies
@@ -12,7 +12,7 @@ When I'm not coding, you’ll find me drawing, reading, or playing video games!
 
 ## 📫 Connect with me
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/arlene-garcia-27260b296/)
-- Email: arlene.garcia.school@gmail.com
+- Email: arlene.garcia.mail@gmail.com
 
 ---
 <!--
